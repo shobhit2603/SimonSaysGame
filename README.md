@@ -1,5 +1,7 @@
 # Simon Says Game
 
+![image](https://github.com/user-attachments/assets/85d9d268-4b75-4846-8ef6-58fd5e599ef7)
+
 - To start the game press any key on your keyboard.
 - Once you start the game one of four colors will blink.
 - Click on the color that blink's to move on to the next level.
